@@ -40,7 +40,7 @@ def fetch_and_parse_csv(game_key, url):
     }
     
     max_retries = 3
-    retry_delay = 5
+    retry_delay = 30
     
     for attempt in range(1, max_retries + 1):
         try:
