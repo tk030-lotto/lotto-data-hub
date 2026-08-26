@@ -14,3 +14,5 @@
 * ミニロト: `https://tk030-lotto.github.io/lotto-data-hub/data/miniloto.json`
 * ナンバーズ3: `https://tk030-lotto.github.io/lotto-data-hub/data/numbers3.json`
 * ナンバーズ4: `https://tk030-lotto.github.io/lotto-data-hub/data/numbers4.json`
+* ビンゴ5: `https://tk030-lotto.github.io/lotto-data-hub/data/bingo5.json`
+

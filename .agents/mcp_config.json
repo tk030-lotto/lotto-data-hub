@@ -1,0 +1,23 @@
+﻿{
+  "mcpServers": {
+    "ai-context-manager-mcp": {
+      "command": "node",
+      "args": [
+        "C:/Users/tk030/Desktop/AI開発コンテキスト管理MCPツール/dist/index.js"
+      ],
+      "env": {
+        "AI_CONTEXT_ALLOWED_ROOTS": "C:/Users/tk030/Desktop"
+      }
+    },
+    "ai-context-manager-v3-mcp": {
+      "command": "node",
+      "args": [
+        "C:/Users/tk030/Desktop/AIコンテキスト管理ツールV3/bin/v3-mcp-server.js"
+      ],
+      "env": {
+        "V3_PROJECT_ROOT": "C:/Users/tk030/Desktop/AIコンテキスト管理ツールV3",
+        "AI_CONTEXT_ALLOWED_ROOTS": "C:/Users/tk030/Desktop"
+      }
+    }
+  }
+}
