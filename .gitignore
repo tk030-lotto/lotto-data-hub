@@ -21,3 +21,13 @@ SKILLS.md
 knowledge/
 RECORD.md
 
+
+# 内部運用ファイル（共通ルール）
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+
+# Data directory internal rules
+data/.agents/
+data/.cursorrules
+data/SKILLS.md
