@@ -31,3 +31,9 @@ GEMINI.md
 data/.agents/
 data/.cursorrules
 data/SKILLS.md
+
+# サブディレクトリ内AIルールファイル除外（フェーズ2-B-δ）
+**/.clauderules
+**/.clinerules
+**/.copilotinstructions
+**/.github/copilot-instructions.md
